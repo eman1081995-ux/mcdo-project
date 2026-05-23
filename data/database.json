@@ -1,0 +1,12 @@
+{
+  "students": [],
+  "settings": {
+    "username": "admin",
+    "passwordHash": "0a8b4cc8ae106e6f0f45b0f9a8c8d0e64214bef4cdb8ab8e2efed088d859a393",
+    "passingPercentage": 80,
+    "examDurationMinutes": 60,
+    "questionsCount": 55
+  },
+  "blockedDevices": [],
+  "blockedStudents": []
+}
